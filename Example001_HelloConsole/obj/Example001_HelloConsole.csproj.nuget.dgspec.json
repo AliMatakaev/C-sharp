@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git_VSCode\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "e:\\Git_VSCode\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "E:\\Git_VSCode\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "e:\\Git_VSCode\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git_VSCode\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "e:\\Git_VSCode\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "E:\\Git_VSCode\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "e:\\Git_VSCode\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\-ALI-\\.nuget\\packages\\",
-        "outputPath": "E:\\Git_VSCode\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "e:\\Git_VSCode\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
