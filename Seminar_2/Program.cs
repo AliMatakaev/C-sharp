@@ -4,6 +4,10 @@ int num = new Random().Next(10, 100);
 int num1 = num / 10;
 int num2 = num % 10;
 if (num1 > num2)
-Console.WriteLine($"Наибольшая цифра числа {num}: {num1}");
+{
+    Console.WriteLine($"Наибольшая цифра числа {num}: {num1}");
+}
 else
-Console.WriteLine($"Наибольшая цифра числа {num}: {num2}");
+{
+    Console.WriteLine($"Наибольшая цифра числа {num}: {num2}");
+}
